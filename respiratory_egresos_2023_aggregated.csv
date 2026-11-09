@@ -1,0 +1,385 @@
+region_code,region_name,age_group,sex,n_discharges
+*,*,*,*,16023
+01,De Tarapacá,1 a 9,HOMBRE,306
+01,De Tarapacá,1 a 9,MUJER,295
+01,De Tarapacá,10 a 19,HOMBRE,42
+01,De Tarapacá,10 a 19,MUJER,30
+01,De Tarapacá,20 a 29,HOMBRE,31
+01,De Tarapacá,20 a 29,MUJER,43
+01,De Tarapacá,30 a 39,HOMBRE,53
+01,De Tarapacá,30 a 39,MUJER,39
+01,De Tarapacá,40 a 49,HOMBRE,36
+01,De Tarapacá,40 a 49,MUJER,28
+01,De Tarapacá,50 a 59,HOMBRE,41
+01,De Tarapacá,50 a 59,MUJER,43
+01,De Tarapacá,60 a 69,HOMBRE,82
+01,De Tarapacá,60 a 69,MUJER,58
+01,De Tarapacá,70 a 79,HOMBRE,68
+01,De Tarapacá,70 a 79,MUJER,70
+01,De Tarapacá,80 a 89,HOMBRE,50
+01,De Tarapacá,80 a 89,MUJER,56
+01,De Tarapacá,90 y más,HOMBRE,11
+01,De Tarapacá,90 y más,MUJER,9
+01,De Tarapacá,menor de un año,HOMBRE,183
+01,De Tarapacá,menor de un año,MUJER,117
+02,De Antofagasta,1 a 9,HOMBRE,736
+02,De Antofagasta,1 a 9,MUJER,632
+02,De Antofagasta,10 a 19,HOMBRE,129
+02,De Antofagasta,10 a 19,MUJER,107
+02,De Antofagasta,20 a 29,HOMBRE,102
+02,De Antofagasta,20 a 29,MUJER,104
+02,De Antofagasta,30 a 39,HOMBRE,148
+02,De Antofagasta,30 a 39,MUJER,114
+02,De Antofagasta,40 a 49,HOMBRE,147
+02,De Antofagasta,40 a 49,MUJER,111
+02,De Antofagasta,50 a 59,HOMBRE,195
+02,De Antofagasta,50 a 59,MUJER,149
+02,De Antofagasta,60 a 69,HOMBRE,251
+02,De Antofagasta,60 a 69,MUJER,233
+02,De Antofagasta,70 a 79,HOMBRE,247
+02,De Antofagasta,70 a 79,MUJER,254
+02,De Antofagasta,80 a 89,HOMBRE,114
+02,De Antofagasta,80 a 89,MUJER,179
+02,De Antofagasta,90 y más,HOMBRE,25
+02,De Antofagasta,90 y más,MUJER,53
+02,De Antofagasta,menor de un año,HOMBRE,153
+02,De Antofagasta,menor de un año,MUJER,99
+03,De Atacama,1 a 9,HOMBRE,227
+03,De Atacama,1 a 9,MUJER,153
+03,De Atacama,10 a 19,HOMBRE,41
+03,De Atacama,10 a 19,MUJER,38
+03,De Atacama,20 a 29,HOMBRE,39
+03,De Atacama,20 a 29,MUJER,31
+03,De Atacama,30 a 39,HOMBRE,51
+03,De Atacama,30 a 39,MUJER,33
+03,De Atacama,40 a 49,HOMBRE,39
+03,De Atacama,40 a 49,MUJER,30
+03,De Atacama,50 a 59,HOMBRE,48
+03,De Atacama,50 a 59,MUJER,33
+03,De Atacama,60 a 69,HOMBRE,86
+03,De Atacama,60 a 69,MUJER,98
+03,De Atacama,70 a 79,HOMBRE,91
+03,De Atacama,70 a 79,MUJER,76
+03,De Atacama,80 a 89,HOMBRE,101
+03,De Atacama,80 a 89,MUJER,82
+03,De Atacama,90 y más,HOMBRE,18
+03,De Atacama,90 y más,MUJER,34
+03,De Atacama,menor de un año,HOMBRE,65
+03,De Atacama,menor de un año,MUJER,77
+04,De Coquimbo,1 a 9,HOMBRE,799
+04,De Coquimbo,1 a 9,MUJER,720
+04,De Coquimbo,10 a 19,HOMBRE,148
+04,De Coquimbo,10 a 19,MUJER,129
+04,De Coquimbo,20 a 29,HOMBRE,128
+04,De Coquimbo,20 a 29,MUJER,134
+04,De Coquimbo,30 a 39,HOMBRE,142
+04,De Coquimbo,30 a 39,MUJER,141
+04,De Coquimbo,40 a 49,HOMBRE,106
+04,De Coquimbo,40 a 49,MUJER,110
+04,De Coquimbo,50 a 59,HOMBRE,171
+04,De Coquimbo,50 a 59,MUJER,164
+04,De Coquimbo,60 a 69,HOMBRE,258
+04,De Coquimbo,60 a 69,MUJER,156
+04,De Coquimbo,70 a 79,HOMBRE,319
+04,De Coquimbo,70 a 79,MUJER,307
+04,De Coquimbo,80 a 89,HOMBRE,267
+04,De Coquimbo,80 a 89,MUJER,291
+04,De Coquimbo,90 y más,HOMBRE,63
+04,De Coquimbo,90 y más,MUJER,82
+04,De Coquimbo,menor de un año,HOMBRE,432
+04,De Coquimbo,menor de un año,MUJER,287
+05,De Valparaíso,1 a 9,HOMBRE,1990
+05,De Valparaíso,1 a 9,MUJER,1600
+05,De Valparaíso,10 a 19,HOMBRE,347
+05,De Valparaíso,10 a 19,MUJER,322
+05,De Valparaíso,20 a 29,HOMBRE,282
+05,De Valparaíso,20 a 29,MUJER,276
+05,De Valparaíso,30 a 39,HOMBRE,318
+05,De Valparaíso,30 a 39,MUJER,309
+05,De Valparaíso,40 a 49,HOMBRE,275
+05,De Valparaíso,40 a 49,MUJER,227
+05,De Valparaíso,50 a 59,HOMBRE,400
+05,De Valparaíso,50 a 59,MUJER,364
+05,De Valparaíso,60 a 69,HOMBRE,719
+05,De Valparaíso,60 a 69,MUJER,662
+05,De Valparaíso,70 a 79,HOMBRE,926
+05,De Valparaíso,70 a 79,MUJER,882
+05,De Valparaíso,80 a 89,HOMBRE,761
+05,De Valparaíso,80 a 89,MUJER,920
+05,De Valparaíso,90 y más,HOMBRE,178
+05,De Valparaíso,90 y más,MUJER,420
+05,De Valparaíso,menor de un año,HOMBRE,854
+05,De Valparaíso,menor de un año,MUJER,633
+06,Del Libertador B. O'Higgins,1 a 9,HOMBRE,749
+06,Del Libertador B. O'Higgins,1 a 9,MUJER,607
+06,Del Libertador B. O'Higgins,10 a 19,HOMBRE,145
+06,Del Libertador B. O'Higgins,10 a 19,MUJER,99
+06,Del Libertador B. O'Higgins,20 a 29,HOMBRE,108
+06,Del Libertador B. O'Higgins,20 a 29,MUJER,105
+06,Del Libertador B. O'Higgins,30 a 39,HOMBRE,124
+06,Del Libertador B. O'Higgins,30 a 39,MUJER,114
+06,Del Libertador B. O'Higgins,40 a 49,HOMBRE,138
+06,Del Libertador B. O'Higgins,40 a 49,MUJER,111
+06,Del Libertador B. O'Higgins,50 a 59,HOMBRE,226
+06,Del Libertador B. O'Higgins,50 a 59,MUJER,210
+06,Del Libertador B. O'Higgins,60 a 69,HOMBRE,374
+06,Del Libertador B. O'Higgins,60 a 69,MUJER,359
+06,Del Libertador B. O'Higgins,70 a 79,HOMBRE,487
+06,Del Libertador B. O'Higgins,70 a 79,MUJER,474
+06,Del Libertador B. O'Higgins,80 a 89,HOMBRE,413
+06,Del Libertador B. O'Higgins,80 a 89,MUJER,406
+06,Del Libertador B. O'Higgins,90 y más,HOMBRE,93
+06,Del Libertador B. O'Higgins,90 y más,MUJER,145
+06,Del Libertador B. O'Higgins,menor de un año,HOMBRE,318
+06,Del Libertador B. O'Higgins,menor de un año,MUJER,152
+07,Del Maule,1 a 9,HOMBRE,922
+07,Del Maule,1 a 9,MUJER,923
+07,Del Maule,10 a 19,HOMBRE,171
+07,Del Maule,10 a 19,MUJER,111
+07,Del Maule,20 a 29,HOMBRE,108
+07,Del Maule,20 a 29,MUJER,101
+07,Del Maule,30 a 39,HOMBRE,141
+07,Del Maule,30 a 39,MUJER,136
+07,Del Maule,40 a 49,HOMBRE,142
+07,Del Maule,40 a 49,MUJER,127
+07,Del Maule,50 a 59,HOMBRE,239
+07,Del Maule,50 a 59,MUJER,219
+07,Del Maule,60 a 69,HOMBRE,460
+07,Del Maule,60 a 69,MUJER,416
+07,Del Maule,70 a 79,HOMBRE,593
+07,Del Maule,70 a 79,MUJER,560
+07,Del Maule,80 a 89,HOMBRE,502
+07,Del Maule,80 a 89,MUJER,600
+07,Del Maule,90 y más,HOMBRE,123
+07,Del Maule,90 y más,MUJER,242
+07,Del Maule,menor de un año,HOMBRE,311
+07,Del Maule,menor de un año,MUJER,181
+08,Del Bíobío,1 a 9,HOMBRE,1948
+08,Del Bíobío,1 a 9,MUJER,1648
+08,Del Bíobío,10 a 19,HOMBRE,405
+08,Del Bíobío,10 a 19,MUJER,362
+08,Del Bíobío,20 a 29,HOMBRE,341
+08,Del Bíobío,20 a 29,MUJER,401
+08,Del Bíobío,30 a 39,HOMBRE,367
+08,Del Bíobío,30 a 39,MUJER,407
+08,Del Bíobío,40 a 49,HOMBRE,353
+08,Del Bíobío,40 a 49,MUJER,387
+08,Del Bíobío,50 a 59,HOMBRE,539
+08,Del Bíobío,50 a 59,MUJER,554
+08,Del Bíobío,60 a 69,HOMBRE,833
+08,Del Bíobío,60 a 69,MUJER,861
+08,Del Bíobío,70 a 79,HOMBRE,1032
+08,Del Bíobío,70 a 79,MUJER,1171
+08,Del Bíobío,80 a 89,HOMBRE,861
+08,Del Bíobío,80 a 89,MUJER,1121
+08,Del Bíobío,90 y más,HOMBRE,209
+08,Del Bíobío,90 y más,MUJER,408
+08,Del Bíobío,menor de un año,HOMBRE,760
+08,Del Bíobío,menor de un año,MUJER,628
+09,De La Araucanía,1 a 9,HOMBRE,1110
+09,De La Araucanía,1 a 9,MUJER,1094
+09,De La Araucanía,10 a 19,HOMBRE,177
+09,De La Araucanía,10 a 19,MUJER,137
+09,De La Araucanía,20 a 29,HOMBRE,113
+09,De La Araucanía,20 a 29,MUJER,115
+09,De La Araucanía,30 a 39,HOMBRE,177
+09,De La Araucanía,30 a 39,MUJER,144
+09,De La Araucanía,40 a 49,HOMBRE,149
+09,De La Araucanía,40 a 49,MUJER,134
+09,De La Araucanía,50 a 59,HOMBRE,254
+09,De La Araucanía,50 a 59,MUJER,237
+09,De La Araucanía,60 a 69,HOMBRE,421
+09,De La Araucanía,60 a 69,MUJER,460
+09,De La Araucanía,70 a 79,HOMBRE,687
+09,De La Araucanía,70 a 79,MUJER,662
+09,De La Araucanía,80 a 89,HOMBRE,589
+09,De La Araucanía,80 a 89,MUJER,726
+09,De La Araucanía,90 y más,HOMBRE,130
+09,De La Araucanía,90 y más,MUJER,278
+09,De La Araucanía,menor de un año,HOMBRE,245
+09,De La Araucanía,menor de un año,MUJER,187
+10,De Los Lagos,1 a 9,HOMBRE,984
+10,De Los Lagos,1 a 9,MUJER,771
+10,De Los Lagos,10 a 19,HOMBRE,203
+10,De Los Lagos,10 a 19,MUJER,143
+10,De Los Lagos,20 a 29,HOMBRE,127
+10,De Los Lagos,20 a 29,MUJER,123
+10,De Los Lagos,30 a 39,HOMBRE,157
+10,De Los Lagos,30 a 39,MUJER,145
+10,De Los Lagos,40 a 49,HOMBRE,160
+10,De Los Lagos,40 a 49,MUJER,152
+10,De Los Lagos,50 a 59,HOMBRE,241
+10,De Los Lagos,50 a 59,MUJER,198
+10,De Los Lagos,60 a 69,HOMBRE,435
+10,De Los Lagos,60 a 69,MUJER,400
+10,De Los Lagos,70 a 79,HOMBRE,553
+10,De Los Lagos,70 a 79,MUJER,511
+10,De Los Lagos,80 a 89,HOMBRE,453
+10,De Los Lagos,80 a 89,MUJER,499
+10,De Los Lagos,90 y más,HOMBRE,78
+10,De Los Lagos,90 y más,MUJER,150
+10,De Los Lagos,menor de un año,HOMBRE,430
+10,De Los Lagos,menor de un año,MUJER,265
+11,De Aisén del Gral. C. Ibáñez del Campo,1 a 9,HOMBRE,144
+11,De Aisén del Gral. C. Ibáñez del Campo,1 a 9,MUJER,114
+11,De Aisén del Gral. C. Ibáñez del Campo,10 a 19,HOMBRE,42
+11,De Aisén del Gral. C. Ibáñez del Campo,10 a 19,MUJER,24
+11,De Aisén del Gral. C. Ibáñez del Campo,20 a 29,HOMBRE,20
+11,De Aisén del Gral. C. Ibáñez del Campo,20 a 29,MUJER,19
+11,De Aisén del Gral. C. Ibáñez del Campo,30 a 39,HOMBRE,35
+11,De Aisén del Gral. C. Ibáñez del Campo,30 a 39,MUJER,24
+11,De Aisén del Gral. C. Ibáñez del Campo,40 a 49,HOMBRE,18
+11,De Aisén del Gral. C. Ibáñez del Campo,40 a 49,MUJER,23
+11,De Aisén del Gral. C. Ibáñez del Campo,50 a 59,HOMBRE,37
+11,De Aisén del Gral. C. Ibáñez del Campo,50 a 59,MUJER,34
+11,De Aisén del Gral. C. Ibáñez del Campo,60 a 69,HOMBRE,63
+11,De Aisén del Gral. C. Ibáñez del Campo,60 a 69,MUJER,48
+11,De Aisén del Gral. C. Ibáñez del Campo,70 a 79,HOMBRE,69
+11,De Aisén del Gral. C. Ibáñez del Campo,70 a 79,MUJER,47
+11,De Aisén del Gral. C. Ibáñez del Campo,80 a 89,HOMBRE,61
+11,De Aisén del Gral. C. Ibáñez del Campo,80 a 89,MUJER,56
+11,De Aisén del Gral. C. Ibáñez del Campo,90 y más,HOMBRE,8
+11,De Aisén del Gral. C. Ibáñez del Campo,90 y más,MUJER,31
+11,De Aisén del Gral. C. Ibáñez del Campo,menor de un año,MUJER,49
+12,De Magallanes y de La Antártica Chilena,1 a 9,HOMBRE,152
+12,De Magallanes y de La Antártica Chilena,1 a 9,MUJER,66
+12,De Magallanes y de La Antártica Chilena,10 a 19,HOMBRE,35
+12,De Magallanes y de La Antártica Chilena,10 a 19,MUJER,38
+12,De Magallanes y de La Antártica Chilena,20 a 29,HOMBRE,39
+12,De Magallanes y de La Antártica Chilena,20 a 29,MUJER,41
+12,De Magallanes y de La Antártica Chilena,30 a 39,HOMBRE,69
+12,De Magallanes y de La Antártica Chilena,30 a 39,MUJER,52
+12,De Magallanes y de La Antártica Chilena,40 a 49,HOMBRE,60
+12,De Magallanes y de La Antártica Chilena,40 a 49,MUJER,40
+12,De Magallanes y de La Antártica Chilena,50 a 59,HOMBRE,55
+12,De Magallanes y de La Antártica Chilena,50 a 59,MUJER,32
+12,De Magallanes y de La Antártica Chilena,60 a 69,HOMBRE,64
+12,De Magallanes y de La Antártica Chilena,60 a 69,MUJER,62
+12,De Magallanes y de La Antártica Chilena,70 a 79,HOMBRE,100
+12,De Magallanes y de La Antártica Chilena,70 a 79,MUJER,86
+12,De Magallanes y de La Antártica Chilena,80 a 89,HOMBRE,59
+12,De Magallanes y de La Antártica Chilena,80 a 89,MUJER,67
+12,De Magallanes y de La Antártica Chilena,90 y más,HOMBRE,12
+12,De Magallanes y de La Antártica Chilena,90 y más,MUJER,15
+12,De Magallanes y de La Antártica Chilena,menor de un año,HOMBRE,38
+12,De Magallanes y de La Antártica Chilena,menor de un año,MUJER,30
+13,Metropolitana de Santiago,1 a 9,HOMBRE,8655
+13,Metropolitana de Santiago,1 a 9,MUJER,7247
+13,Metropolitana de Santiago,10 a 19,HOMBRE,1382
+13,Metropolitana de Santiago,10 a 19,MUJER,1305
+13,Metropolitana de Santiago,20 a 29,HOMBRE,1519
+13,Metropolitana de Santiago,20 a 29,MUJER,1656
+13,Metropolitana de Santiago,30 a 39,HOMBRE,1736
+13,Metropolitana de Santiago,30 a 39,MUJER,1609
+13,Metropolitana de Santiago,40 a 49,HOMBRE,1497
+13,Metropolitana de Santiago,40 a 49,MUJER,1331
+13,Metropolitana de Santiago,50 a 59,HOMBRE,1680
+13,Metropolitana de Santiago,50 a 59,MUJER,1682
+13,Metropolitana de Santiago,60 a 69,HOMBRE,2826
+13,Metropolitana de Santiago,60 a 69,MUJER,2804
+13,Metropolitana de Santiago,70 a 79,HOMBRE,3218
+13,Metropolitana de Santiago,70 a 79,MUJER,3485
+13,Metropolitana de Santiago,80 a 89,HOMBRE,2384
+13,Metropolitana de Santiago,80 a 89,MUJER,3186
+13,Metropolitana de Santiago,90 y más,HOMBRE,594
+13,Metropolitana de Santiago,90 y más,MUJER,1365
+13,Metropolitana de Santiago,menor de un año,HOMBRE,5170
+13,Metropolitana de Santiago,menor de un año,MUJER,3396
+14,De Los Ríos,1 a 9,HOMBRE,464
+14,De Los Ríos,1 a 9,MUJER,399
+14,De Los Ríos,10 a 19,HOMBRE,79
+14,De Los Ríos,10 a 19,MUJER,66
+14,De Los Ríos,20 a 29,HOMBRE,63
+14,De Los Ríos,20 a 29,MUJER,79
+14,De Los Ríos,30 a 39,HOMBRE,70
+14,De Los Ríos,30 a 39,MUJER,77
+14,De Los Ríos,40 a 49,HOMBRE,70
+14,De Los Ríos,40 a 49,MUJER,70
+14,De Los Ríos,50 a 59,HOMBRE,111
+14,De Los Ríos,50 a 59,MUJER,115
+14,De Los Ríos,60 a 69,HOMBRE,182
+14,De Los Ríos,60 a 69,MUJER,206
+14,De Los Ríos,70 a 79,HOMBRE,280
+14,De Los Ríos,70 a 79,MUJER,275
+14,De Los Ríos,80 a 89,HOMBRE,222
+14,De Los Ríos,80 a 89,MUJER,292
+14,De Los Ríos,90 y más,HOMBRE,42
+14,De Los Ríos,90 y más,MUJER,103
+14,De Los Ríos,menor de un año,HOMBRE,204
+14,De Los Ríos,menor de un año,MUJER,144
+15,De Arica y Parinacota,1 a 9,HOMBRE,70
+15,De Arica y Parinacota,1 a 9,MUJER,91
+15,De Arica y Parinacota,10 a 19,HOMBRE,20
+15,De Arica y Parinacota,10 a 19,MUJER,20
+15,De Arica y Parinacota,20 a 29,HOMBRE,18
+15,De Arica y Parinacota,20 a 29,MUJER,21
+15,De Arica y Parinacota,30 a 39,HOMBRE,29
+15,De Arica y Parinacota,30 a 39,MUJER,27
+15,De Arica y Parinacota,40 a 49,HOMBRE,29
+15,De Arica y Parinacota,40 a 49,MUJER,24
+15,De Arica y Parinacota,50 a 59,HOMBRE,40
+15,De Arica y Parinacota,50 a 59,MUJER,41
+15,De Arica y Parinacota,60 a 69,HOMBRE,69
+15,De Arica y Parinacota,60 a 69,MUJER,51
+15,De Arica y Parinacota,70 a 79,HOMBRE,75
+15,De Arica y Parinacota,70 a 79,MUJER,64
+15,De Arica y Parinacota,80 a 89,HOMBRE,38
+15,De Arica y Parinacota,80 a 89,MUJER,53
+15,De Arica y Parinacota,90 y más,HOMBRE,10
+15,De Arica y Parinacota,90 y más,MUJER,14
+15,De Arica y Parinacota,menor de un año,HOMBRE,32
+15,De Arica y Parinacota,menor de un año,MUJER,22
+16,De Ñuble,1 a 9,HOMBRE,549
+16,De Ñuble,1 a 9,MUJER,483
+16,De Ñuble,10 a 19,HOMBRE,94
+16,De Ñuble,10 a 19,MUJER,66
+16,De Ñuble,20 a 29,HOMBRE,61
+16,De Ñuble,20 a 29,MUJER,78
+16,De Ñuble,30 a 39,HOMBRE,72
+16,De Ñuble,30 a 39,MUJER,79
+16,De Ñuble,40 a 49,HOMBRE,95
+16,De Ñuble,40 a 49,MUJER,65
+16,De Ñuble,50 a 59,HOMBRE,121
+16,De Ñuble,50 a 59,MUJER,122
+16,De Ñuble,60 a 69,HOMBRE,264
+16,De Ñuble,60 a 69,MUJER,221
+16,De Ñuble,70 a 79,HOMBRE,321
+16,De Ñuble,70 a 79,MUJER,323
+16,De Ñuble,80 a 89,HOMBRE,292
+16,De Ñuble,80 a 89,MUJER,301
+16,De Ñuble,90 y más,HOMBRE,64
+16,De Ñuble,90 y más,MUJER,121
+16,De Ñuble,menor de un año,HOMBRE,128
+16,De Ñuble,menor de un año,MUJER,121
+99,Ignorada,1 a 9,HOMBRE,149
+99,Ignorada,1 a 9,MUJER,136
+99,Ignorada,10 a 19,HOMBRE,24
+99,Ignorada,10 a 19,MUJER,25
+99,Ignorada,20 a 29,HOMBRE,37
+99,Ignorada,20 a 29,MUJER,37
+99,Ignorada,30 a 39,HOMBRE,48
+99,Ignorada,30 a 39,MUJER,51
+99,Ignorada,40 a 49,HOMBRE,33
+99,Ignorada,40 a 49,MUJER,42
+99,Ignorada,50 a 59,HOMBRE,40
+99,Ignorada,50 a 59,MUJER,19
+99,Ignorada,60 a 69,HOMBRE,51
+99,Ignorada,60 a 69,MUJER,65
+99,Ignorada,70 a 79,HOMBRE,67
+99,Ignorada,70 a 79,MUJER,45
+99,Ignorada,80 a 89,HOMBRE,30
+99,Ignorada,80 a 89,MUJER,52
+99,Ignorada,90 y más,HOMBRE,5
+99,Ignorada,90 y más,MUJER,24
+99,Ignorada,menor de un año,HOMBRE,61
+99,Ignorada,menor de un año,MUJER,49
+NULL,Extranjero,1 a 9,HOMBRE,3
+NULL,Extranjero,1 a 9,MUJER,4
+NULL,Extranjero,10 a 19,HOMBRE,1
+NULL,Extranjero,20 a 29,HOMBRE,3
+NULL,Extranjero,30 a 39,MUJER,1
+NULL,Extranjero,40 a 49,HOMBRE,5
+NULL,Extranjero,40 a 49,MUJER,1
+NULL,Extranjero,50 a 59,HOMBRE,1
+NULL,Extranjero,50 a 59,MUJER,1
+NULL,Extranjero,60 a 69,HOMBRE,1
