@@ -1,7 +1,7 @@
 # Chile Climate & Health — Learning R with real climate data
 
 **Author:** Cecilia Gutiérrez Galindo  
-**Status:** Phase 1 — climate data exploration (health outcome integration not yet performed)
+**Status:** Phases 1 and 2 completed — exploratory climate analysis and descriptive respiratory hospital discharge analysis using Chilean public datasets. Temporal climate-health association analysis has not yet been performed.
 
 ## Objective
 
