@@ -1,11 +1,11 @@
-# Chile Climate & Health — Learning R with real climate data
+# Chile Climate & Health 
 
 **Author:** Cecilia Gutiérrez Galindo  
 **Status:** Phases 1 and 2 completed — exploratory climate analysis and descriptive respiratory hospital discharge analysis using Chilean public datasets. Temporal climate-health association analysis has not yet been performed.
 
 ## Objective
 
-Learn reproducible data analysis in R using publicly accessible climate observations for Santiago, Chile. This is preparation for future work integrating climate and public-health data. **This version does not test a climate–health association.**
+Use climate observations for Santiago, Chile. This is preparation for future work integrating climate and public-health data. This version does not test a climate–health association.
 
 ## Research questions for Phase 1
 
@@ -50,4 +50,4 @@ Locate and validate appropriately aggregated, publicly accessible health outcome
 
 ## Learning context
 
-This is an introductory R learning project, building on prior experience in applied statistics with Minitab and SPSS and Lean Six Sigma healthcare process analysis. Assistance from ChatGPT was used to scaffold the initial R script and documentation; the author should run, inspect, adapt and explain the analysis before presenting it as completed personal work.
+This is an introductory R learning project, building on prior experience in applied statistics with Minitab and SPSS and Lean Six Sigma healthcare process analysis.
